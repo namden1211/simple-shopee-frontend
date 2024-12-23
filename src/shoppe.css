@@ -1,0 +1,38 @@
+/* top */
+.top{
+    width: 100vw;
+    height: auto;
+    display: flex;
+}
+.icontop{
+    font-size: 50px;
+    color: coral;
+    padding-left: 13%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.chusobetop{
+    padding-top: 10px;
+    padding-left: 5px;
+    font-size: 40px;
+    font-family:'Bebas Neue', sans-serif;
+    color: coral;
+}
+
+/* bottom */
+.bottom{
+    width: 100vw;
+    height: auto;
+    font-size: 12px;
+    color: rgb(70, 69, 69);
+    text-align: center;
+}
+.chusobebottom{
+    margin-top: 8px;
+    margin-bottom: 25px;
+}
+.chugioithieubottom{
+    margin-top: 8px;
+}
+
+/* dang ky*/
